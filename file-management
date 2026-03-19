@@ -7,3 +7,6 @@ cp
 mv
 touch
 find
+example
+find files larger than 100MB
+find / -size +100M
